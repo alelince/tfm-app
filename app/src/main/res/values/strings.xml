@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BLE App</string>
+    <string name="title_home">Home</string>
+    <string name="title_datasets">Datasets</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="beacon_filter">Beacon filter</string>
+    <string name="ip_address">IP address</string>
+    <string name="server_ip_address_description">Server IP address</string>
+    <string name="ping">Save</string>
+    <string name="defaultPort">9999</string>
+    <string name="server_tcp_port_description">Port</string>
+    <string name="status_disconnected">Server status: disconnected</string>
+    <string name="scenarioLabel">Scenario</string>
+    <string name="dataset_label">Dataset</string>
+    <string name="server_status_connected">Server status: connected</string>
+    <string name="server_status_disconnected">Server status: disconnected</string>
+    <string name="acquisition_point">Acquisition point</string>
+    <string name="blueprint">Blueprint</string>
+    <string name="capture">Capture</string>
+    <string-array name="beacon_names">
+        <item>Beacon 1</item>
+        <item>Beacon 2</item>
+        <item>Beacon 3</item>
+        <item>Beacon 4</item>
+        <item>Beacon 5</item>
+        <item>Beacon 6</item>
+        <item>Beacon 7</item>
+        <item>Beacon 8</item>
+        <item>Beacon 9</item>
+    </string-array>
+</resources>
